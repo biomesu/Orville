@@ -1,3 +1,9 @@
+/**
+* Gelatin Implement
+*
+* Copyright (c) 2021, Steven Lopez.
+*/
+
 
 #include "gelatin.h"
 #include <cstring>

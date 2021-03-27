@@ -1,4 +1,8 @@
-
+/**
+* Kaylon Implement
+*
+* Copyright (c) 2021, Steven Lopez.
+*/
 
 #include "species/kaylon.h"
 

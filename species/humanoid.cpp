@@ -1,4 +1,8 @@
-
+/**
+* Humanoid Implement
+*
+* Copyright (c) 2021, Steven Lopez.
+*/
 
 
 #include "species/humanoid.h"
