@@ -17,3 +17,4 @@ To precisely document their required behavior and test your implementation, the 
 1. One of the tests in *species_test* checks for inequality of Gelatin instances, for which you will need to implement operator overloading.
 1. Use **double** for values like **height** and **weight** because they can be fractional (don't use **float** as it can cause issues with checking equality).
 1. Note that **species_test.cpp** expects all string parameters to be **const char \*** (NOT **std::string**).
+# Orville
